@@ -10,7 +10,9 @@ EDAs: WordClouds for imdb reviews dataset
 **Trigrams**
 ![wordcloud_all_trigram.jpg](https://github.com/DigimonFrankie/NLP/blob/main/Pictures/wordcloud_all_trigram.jpg)
 
-
+Machine Learning:
+  * NBClassifier
+  * SVM
 ```python
 
 ```
